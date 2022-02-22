@@ -1,5 +1,3 @@
--- 19COA108 Haskell Coursework 2019, M.Peters
-
 ---- Part 1 ----
 
 -- 1. row function takes the input for the length of rows and outputs the 
